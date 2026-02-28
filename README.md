@@ -1,4 +1,5 @@
 ## Hi there, welcome 👋
+I'm a sophomore in Da Nang university of science and technology. My major is Embedded system and Iot(Advance program)
 ### 🛠️Tech Stack
 
 <p align="left">
