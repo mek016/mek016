@@ -1,7 +1,7 @@
 ## Hi there, welcome 👋
 I'm a sophomore in Da Nang university of science and technology. My major is Embedded system and Iot(Advance program)
 ### 🛠️Tech Stack
-
+I am on a journey of learning and self-development, and here are some of the technologies I am currently using.
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
