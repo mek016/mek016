@@ -1,5 +1,6 @@
 ## Hi there, welcome 👋
-I'm a sophomore in Da Nang university of science and technology. My major is Embedded system and Iot(Advance program)
+I'm a sophomore in Da Nang university of science and technology. My major is Embedded system and Iot(Advance program). <br>
+I also work as an installer of roller doors and automatic doors, and do other jobs as a mechanic.
 ### 🛠️Tech Stack
 I am on a journey of learning and self-development, and here are some of the technologies I am currently using.
 <p align="left">
